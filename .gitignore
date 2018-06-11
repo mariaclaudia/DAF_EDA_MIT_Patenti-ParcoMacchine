@@ -1,0 +1,10 @@
+
+data/
+notebooks/\.ipynb_checkpoints/
+
+# misc
+.DS_Store
+
+#ignore shapefiles
+*.csv
+
