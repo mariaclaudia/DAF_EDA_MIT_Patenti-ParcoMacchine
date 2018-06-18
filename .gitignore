@@ -6,5 +6,5 @@ notebooks/\.ipynb_checkpoints/
 .DS_Store
 
 #ignore shapefiles
-*.csv
+
 
